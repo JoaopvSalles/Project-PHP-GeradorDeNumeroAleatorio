@@ -1,4 +1,4 @@
-Gerador de Número Aleatório
+# Gerador de Número Aleatório
 
 
 > Programa criado em ```HTML``` ```CSS``` ```PHP``` com o intuito de praticar e desenvolver conhecimento nas tecnologias.
